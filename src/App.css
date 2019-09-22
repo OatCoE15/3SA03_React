@@ -25,6 +25,11 @@ body{
   color: red;
   background: pink;
 }
+.selected{
+  margin-left: 8em;
+  font-size: 30px;
+  margin-top: 3em;
+}
 
 
 
