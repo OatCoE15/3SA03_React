@@ -7,6 +7,10 @@ body{
   text-align: center;
   font-size: 70px;
 }
+.word{
+  text-align: center;
+  font-size: 20px;
+}
 .card {
   display: inline-block;
   text-align: center;
