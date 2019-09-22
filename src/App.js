@@ -40,7 +40,8 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        
+        <h1 className="head">Word Guessing Game</h1>
+        <p className="word">คำใบ้ : เป็นผักชนิดหนึ่งที่เป็นส่วนผสมหลักในเครื่องแกง</p>
         {
           Array.from(this.state.chars).map((item, index) => (
             <CharacterCard
